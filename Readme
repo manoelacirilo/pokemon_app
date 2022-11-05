@@ -1,0 +1,13 @@
+#Pokemon list
+
+Sistema para gerenciar Pokemon.
+Funcionalidades de insirir, listar, editar e excluir Pokemon.
+Login de usuário.
+
+# Instalação
+Instalar dependências
+
+pip install -r requuirements.txt
+
+Rodar servidor
+python manage.py runserver
